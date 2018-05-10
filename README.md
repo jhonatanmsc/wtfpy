@@ -1,11 +1,12 @@
 <p align="center"><img src="/images/logo.png" alt=""></p>
 <h1 align="center">What the f*ck Python! 🐍</h1>
-<p align="center">An interesting collection of surprising snippets and lesser-known Python features.</p>
+<p align="center">Uma coleção de snippets surpreendentes e recursos menos conhecidos do python.</p>
 
 [![WTFPL 2.0][license-image]][license-url]
 
+O Python, sendo uma linguagem de programação de alto nível e baseada em interpretador, oferece muitos recursos que tornam o ato de programar mais confortável e simples. Mas, às vezes, os resultados de um snippet do Python podem não parecer claros para um usuário comum à primeira vista.
 
-Python, being a beautifully designed high-level and interpreter-based programming language, provides us with many features for the programmer's comfort. But sometimes, the outcomes of a Python snippet may not seem obvious to a regular user at first sight.
+Aqui está um projeto divertido para mostrar exemplos contra-intuitivos e complicados de recursos menos conhecidos do Python, tentando discutir o que exatamente está acontecendo por debaixo dos panos!
 
 Here is a fun project to collect such tricky & counter-intuitive examples and lesser-known features in Python, attempting to discuss what exactly is happening under the hood!
 
