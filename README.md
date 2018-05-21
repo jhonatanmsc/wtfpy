@@ -1,24 +1,22 @@
 <p align="center"><img src="/images/logo.png" alt=""></p>
 <h1 align="center">What the f*ck Python! 🐍</h1>
-<p align="center">Uma coleção de snippets surpreendentes e recursos menos conhecidos do python.</p>
+<p align="center">Uma coleção de snippets surpreendentes e recursos pouco conhecidos do python.</p>
 
 [![WTFPL 2.0][license-image]][license-url]
 
 O Python, sendo uma linguagem de programação de alto nível e baseada em interpretador, oferece muitos recursos que tornam o ato de programar mais confortável e simples. Mas, às vezes, os resultados de um snippet do Python podem não parecer claros para um usuário comum à primeira vista.
 
-Aqui está um projeto divertido para mostrar exemplos contra-intuitivos e complicados de recursos menos conhecidos do Python, tentando discutir o que exatamente está acontecendo por debaixo dos panos!
+Temos aqui um projeto divertido para mostrar exemplos contra-intuitivos e complicados de recursos pouco conhecidos do Python, tentando discutir o que realmente está acontecendo por debaixo dos panos!
 
-Here is a fun project to collect such tricky & counter-intuitive examples and lesser-known features in Python, attempting to discuss what exactly is happening under the hood!
+Alguns destes exemplos que você verá abaixo podem não ser tão "WTFs", mas eles revelarão algumas partes interessantes do Python que você pode não ter conhecimento. Acho que é uma boa maneira de aprender os aspectos internos de uma linguagem de programação, e acho que você os achará interessantes também!
 
-While some of the examples you see below may not be WTFs in the truest sense, but they'll reveal some of the interesting parts of Python that you might be unaware of. I find it a nice way to learn the internals of a programming language, and I think you'll find them interesting as well!
+Se você é um programador experiente em Python, pode considerar um desafio conseguir a maioria deles na primeira tentativa. Você pode já estar familiarizado com alguns desses exemplos, e eu posso ser capaz de reviver velhas e doces lembranças suas sendo picadas por essas pegadinhas. :D
 
-If you're an experienced Python programmer, you can take it as a challenge to get most of them right in first attempt. You may be already familiar with some of these examples, and I might be able to revive sweet old memories of yours being bitten by these gotchas :sweat_smile:
+Se você é um leitor obstinado, você pode aprender mais sobre as novas modificações [aqui](https://github.com/satwikkansal/wtfpython/releases/).
 
-If you're a returning reader, you can learn about the new modifications [here](https://github.com/satwikkansal/wtfpython/releases/).
+Então, vamos começar...
 
-So, here we go...
-
-# Table of Contents
+# Índice
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
