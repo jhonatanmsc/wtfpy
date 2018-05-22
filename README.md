@@ -10,7 +10,7 @@ Temos aqui um projeto divertido para mostrar exemplos contra-intuitivos e compli
 
 Alguns destes exemplos que você verá abaixo podem não ser tão "WTFs", mas eles revelarão algumas partes interessantes do Python que você pode não ter conhecimento. Acho que é uma boa maneira de aprender os aspectos internos de uma linguagem de programação, e acho que você os achará interessantes também!
 
-Se você é um programador experiente em Python, pode considerar um desafio conseguir a maioria deles na primeira tentativa. Você pode já estar familiarizado com alguns desses exemplos, e eu posso ser capaz de reviver velhas e doces lembranças suas sendo picadas por essas pegadinhas. :D
+Se você é um programador experiente em Python, pode considerar um desafio conseguir a maioria deles na primeira tentativa. Você pode já estar familiarizado com alguns desses exemplos, e eu posso ser capaz de reviver velhas e doces lembranças suas sendo picadas por essas pegadinhas. :sweat_smile:
 
 Se você é um leitor obstinado, você pode aprender mais sobre as novas modificações [aqui](https://github.com/satwikkansal/wtfpython/releases/).
 
